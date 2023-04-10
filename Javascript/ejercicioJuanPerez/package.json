@@ -1,0 +1,13 @@
+
+{
+  "name": "ejerciciojuanperez",
+  "version": "1.0.0",
+  "description": "Ejercicio de la vacante del gordito",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejo Laiton",
+  "license": "MIT"
+}
